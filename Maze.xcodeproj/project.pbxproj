@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		36CE5EE0179DE1680026E283 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 36CE5EDF179DE1680026E283 /* Default-568h@2x.png */; };
 		36F424C5179DA471001F4FDE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36F424C4179DA471001F4FDE /* Foundation.framework */; };
 		36F424C7179DA471001F4FDE /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36F424C6179DA471001F4FDE /* CoreGraphics.framework */; };
 		36F424C9179DA471001F4FDE /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36F424C8179DA471001F4FDE /* UIKit.framework */; };
@@ -21,6 +22,26 @@
 		36F424E6179DA471001F4FDE /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36F424C8179DA471001F4FDE /* UIKit.framework */; };
 		36F424EE179DA471001F4FDE /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 36F424EC179DA471001F4FDE /* InfoPlist.strings */; };
 		36F424F0179DA471001F4FDE /* MazeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 36F424EF179DA471001F4FDE /* MazeTests.m */; };
+		36F424FE179DA693001F4FDE /* exit.png in Resources */ = {isa = PBXBuildFile; fileRef = 36F424FA179DA693001F4FDE /* exit.png */; };
+		36F424FF179DA693001F4FDE /* exit.png in Resources */ = {isa = PBXBuildFile; fileRef = 36F424FA179DA693001F4FDE /* exit.png */; };
+		36F42500179DA693001F4FDE /* ghost.png in Resources */ = {isa = PBXBuildFile; fileRef = 36F424FB179DA693001F4FDE /* ghost.png */; };
+		36F42501179DA693001F4FDE /* ghost.png in Resources */ = {isa = PBXBuildFile; fileRef = 36F424FB179DA693001F4FDE /* ghost.png */; };
+		36F42502179DA693001F4FDE /* pacman.png in Resources */ = {isa = PBXBuildFile; fileRef = 36F424FC179DA693001F4FDE /* pacman.png */; };
+		36F42503179DA693001F4FDE /* pacman.png in Resources */ = {isa = PBXBuildFile; fileRef = 36F424FC179DA693001F4FDE /* pacman.png */; };
+		36F42504179DA693001F4FDE /* squareWall.png in Resources */ = {isa = PBXBuildFile; fileRef = 36F424FD179DA693001F4FDE /* squareWall.png */; };
+		36F42505179DA693001F4FDE /* squareWall.png in Resources */ = {isa = PBXBuildFile; fileRef = 36F424FD179DA693001F4FDE /* squareWall.png */; };
+		36F42507179DA862001F4FDE /* beyonceUp.png in Resources */ = {isa = PBXBuildFile; fileRef = 36F42506179DA862001F4FDE /* beyonceUp.png */; };
+		36F42508179DA862001F4FDE /* beyonceUp.png in Resources */ = {isa = PBXBuildFile; fileRef = 36F42506179DA862001F4FDE /* beyonceUp.png */; };
+		36F4250A179DA95A001F4FDE /* dexter.png in Resources */ = {isa = PBXBuildFile; fileRef = 36F42509179DA95A001F4FDE /* dexter.png */; };
+		36F4250B179DA95A001F4FDE /* dexter.png in Resources */ = {isa = PBXBuildFile; fileRef = 36F42509179DA95A001F4FDE /* dexter.png */; };
+		36F4250D179DAB42001F4FDE /* fbcreature.png in Resources */ = {isa = PBXBuildFile; fileRef = 36F4250C179DAB42001F4FDE /* fbcreature.png */; };
+		36F4250E179DAB42001F4FDE /* fbcreature.png in Resources */ = {isa = PBXBuildFile; fileRef = 36F4250C179DAB42001F4FDE /* fbcreature.png */; };
+		36F42510179DAD82001F4FDE /* pusheen.png in Resources */ = {isa = PBXBuildFile; fileRef = 36F4250F179DAD82001F4FDE /* pusheen.png */; };
+		36F42511179DAD82001F4FDE /* pusheen.png in Resources */ = {isa = PBXBuildFile; fileRef = 36F4250F179DAD82001F4FDE /* pusheen.png */; };
+		36F42513179DAE7F001F4FDE /* mac.png in Resources */ = {isa = PBXBuildFile; fileRef = 36F42512179DAE7F001F4FDE /* mac.png */; };
+		36F42514179DAE7F001F4FDE /* mac.png in Resources */ = {isa = PBXBuildFile; fileRef = 36F42512179DAE7F001F4FDE /* mac.png */; };
+		36F42516179DB5A2001F4FDE /* CoreMotion.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36F42515179DB5A2001F4FDE /* CoreMotion.framework */; };
+		36F42518179DB5BC001F4FDE /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36F42517179DB5BC001F4FDE /* QuartzCore.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +55,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		36CE5EDF179DE1680026E283 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		36F424C1179DA471001F4FDE /* Maze.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Maze.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		36F424C4179DA471001F4FDE /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		36F424C6179DA471001F4FDE /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -53,6 +75,17 @@
 		36F424EB179DA471001F4FDE /* MazeTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MazeTests-Info.plist"; sourceTree = "<group>"; };
 		36F424ED179DA471001F4FDE /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		36F424EF179DA471001F4FDE /* MazeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MazeTests.m; sourceTree = "<group>"; };
+		36F424FA179DA693001F4FDE /* exit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = exit.png; sourceTree = "<group>"; };
+		36F424FB179DA693001F4FDE /* ghost.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ghost.png; sourceTree = "<group>"; };
+		36F424FC179DA693001F4FDE /* pacman.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pacman.png; sourceTree = "<group>"; };
+		36F424FD179DA693001F4FDE /* squareWall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = squareWall.png; sourceTree = "<group>"; };
+		36F42506179DA862001F4FDE /* beyonceUp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = beyonceUp.png; sourceTree = "<group>"; };
+		36F42509179DA95A001F4FDE /* dexter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dexter.png; sourceTree = "<group>"; };
+		36F4250C179DAB42001F4FDE /* fbcreature.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fbcreature.png; sourceTree = "<group>"; };
+		36F4250F179DAD82001F4FDE /* pusheen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pusheen.png; sourceTree = "<group>"; };
+		36F42512179DAE7F001F4FDE /* mac.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mac.png; sourceTree = "<group>"; };
+		36F42515179DB5A2001F4FDE /* CoreMotion.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMotion.framework; path = System/Library/Frameworks/CoreMotion.framework; sourceTree = SDKROOT; };
+		36F42517179DB5BC001F4FDE /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +93,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				36F42518179DB5BC001F4FDE /* QuartzCore.framework in Frameworks */,
+				36F42516179DB5A2001F4FDE /* CoreMotion.framework in Frameworks */,
 				36F424C7179DA471001F4FDE /* CoreGraphics.framework in Frameworks */,
 				36F424C9179DA471001F4FDE /* UIKit.framework in Frameworks */,
 				36F424C5179DA471001F4FDE /* Foundation.framework in Frameworks */,
@@ -82,6 +117,8 @@
 		36F424B8179DA471001F4FDE = {
 			isa = PBXGroup;
 			children = (
+				36CE5EDF179DE1680026E283 /* Default-568h@2x.png */,
+				36F424F9179DA693001F4FDE /* maze-game-images */,
 				36F424CA179DA471001F4FDE /* Maze */,
 				36F424E9179DA471001F4FDE /* MazeTests */,
 				36F424C3179DA471001F4FDE /* Frameworks */,
@@ -101,6 +138,8 @@
 		36F424C3179DA471001F4FDE /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				36F42517179DB5BC001F4FDE /* QuartzCore.framework */,
+				36F42515179DB5A2001F4FDE /* CoreMotion.framework */,
 				36F424C4179DA471001F4FDE /* Foundation.framework */,
 				36F424C6179DA471001F4FDE /* CoreGraphics.framework */,
 				36F424C8179DA471001F4FDE /* UIKit.framework */,
@@ -152,6 +191,23 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		36F424F9179DA693001F4FDE /* maze-game-images */ = {
+			isa = PBXGroup;
+			children = (
+				36F42512179DAE7F001F4FDE /* mac.png */,
+				36F4250F179DAD82001F4FDE /* pusheen.png */,
+				36F4250C179DAB42001F4FDE /* fbcreature.png */,
+				36F42509179DA95A001F4FDE /* dexter.png */,
+				36F42506179DA862001F4FDE /* beyonceUp.png */,
+				36F424FA179DA693001F4FDE /* exit.png */,
+				36F424FB179DA693001F4FDE /* ghost.png */,
+				36F424FC179DA693001F4FDE /* pacman.png */,
+				36F424FD179DA693001F4FDE /* squareWall.png */,
+			);
+			name = "maze-game-images";
+			path = "Maze/maze-game-images";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -200,6 +256,9 @@
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = "Jorge Carlos Cueto Barnett";
 				TargetAttributes = {
+					36F424C0179DA471001F4FDE = {
+						DevelopmentTeam = X4628Q8QPQ;
+					};
 					36F424E1179DA471001F4FDE = {
 						TestTargetID = 36F424C0179DA471001F4FDE;
 					};
@@ -230,8 +289,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				36F424DD179DA471001F4FDE /* Images.xcassets in Resources */,
+				36F42510179DAD82001F4FDE /* pusheen.png in Resources */,
+				36F4250A179DA95A001F4FDE /* dexter.png in Resources */,
+				36F42513179DAE7F001F4FDE /* mac.png in Resources */,
+				36F42500179DA693001F4FDE /* ghost.png in Resources */,
+				36F42507179DA862001F4FDE /* beyonceUp.png in Resources */,
+				36F42504179DA693001F4FDE /* squareWall.png in Resources */,
+				36F424FE179DA693001F4FDE /* exit.png in Resources */,
 				36F424CF179DA471001F4FDE /* InfoPlist.strings in Resources */,
 				36F424D8179DA471001F4FDE /* Main.storyboard in Resources */,
+				36F4250D179DAB42001F4FDE /* fbcreature.png in Resources */,
+				36F42502179DA693001F4FDE /* pacman.png in Resources */,
+				36CE5EE0179DE1680026E283 /* Default-568h@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -239,7 +308,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				36F4250B179DA95A001F4FDE /* dexter.png in Resources */,
 				36F424EE179DA471001F4FDE /* InfoPlist.strings in Resources */,
+				36F42503179DA693001F4FDE /* pacman.png in Resources */,
+				36F42508179DA862001F4FDE /* beyonceUp.png in Resources */,
+				36F4250E179DAB42001F4FDE /* fbcreature.png in Resources */,
+				36F42501179DA693001F4FDE /* ghost.png in Resources */,
+				36F42505179DA693001F4FDE /* squareWall.png in Resources */,
+				36F42514179DAE7F001F4FDE /* mac.png in Resources */,
+				36F42511179DAD82001F4FDE /* pusheen.png in Resources */,
+				36F424FF179DA693001F4FDE /* exit.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -375,10 +453,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Maze/Maze-Prefix.pch";
 				INFOPLIST_FILE = "Maze/Maze-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -388,10 +469,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Maze/Maze-Prefix.pch";
 				INFOPLIST_FILE = "Maze/Maze-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -455,6 +539,7 @@
 				36F424F5179DA471001F4FDE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		36F424F6179DA471001F4FDE /* Build configuration list for PBXNativeTarget "MazeTests" */ = {
 			isa = XCConfigurationList;
@@ -463,6 +548,7 @@
 				36F424F8179DA471001F4FDE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
